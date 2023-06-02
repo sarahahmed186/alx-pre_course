@@ -1,0 +1,3 @@
+cat > bash/alx
+echo "ALX School is so cool!"
+rm-r js
